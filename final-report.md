@@ -68,9 +68,45 @@ The results were visualised using folium library with coloured markers indicatin
 
 #### **Results**
 
- 
+**Crime Data**
 
-#### **Discussion and Recommendations**
+The 10 most common type of offense in NYC and its frequency:![image-20200517181208260](C:\Users\HeiTungLAW\AppData\Roaming\Typora\typora-user-images\image-20200517181208260.png)
+
+
+
+The 5 most common neighborhoods for crimes in NYC:
+
+![image-20200517181456862](C:\Users\HeiTungLAW\AppData\Roaming\Typora\typora-user-images\image-20200517181456862.png)
+
+
+
+The 5 least common neighborhoods for crimes in NYC:
+
+![image-20200517181432474](C:\Users\HeiTungLAW\AppData\Roaming\Typora\typora-user-images\image-20200517181432474.png)
+
+
+
+Visualizing crime frequency in neighborhoods:
+
+![image-20200517182023792](C:\Users\HeiTungLAW\AppData\Roaming\Typora\typora-user-images\image-20200517182023792.png)
+
+**Food Venue Data** 
+
+Cluster 0:
+
+![image-20200517182135762](C:\Users\HeiTungLAW\AppData\Roaming\Typora\typora-user-images\image-20200517182135762.png)
+
+Visualizing k-means clustering results:
+
+![image-20200517181642509](C:\Users\HeiTungLAW\AppData\Roaming\Typora\typora-user-images\image-20200517181642509.png)
+
+
+
+Clustering results superimposed on crime map:
+
+![image-20200517181917473](C:\Users\HeiTungLAW\AppData\Roaming\Typora\typora-user-images\image-20200517181917473.png)
+
+#### Discussion and Recommendations**
 
 **Crime Data**
 
